@@ -1,3 +1,5 @@
-# pong
-made this a while back with a youtube tutorial, most code is not mine
-was too lazy to hand code myself lol
+pong
+----
+made this back in 2021 with help of youtube video
+
+committed this project to my github to practice my git command line skills, lol
