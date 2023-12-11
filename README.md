@@ -1,3 +1,3 @@
 pong
 ----
-you know what pong is
+`pip install PythonTurtle`
